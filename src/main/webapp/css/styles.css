@@ -1,0 +1,9 @@
+body{
+	height:100%;
+	background-image:url(C:\Projects\VideoDemo\src\main\webapp\images\adminpanel.jpg);
+	background-size: cover;
+	text-align: center;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+}
